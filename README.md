@@ -15,7 +15,7 @@ _____
 
 **CTF Events:**
 
-* **HTB x UNI CTF 2020 - Quals:** 99th Place / 204 Teams.
+* **HTB x UNI CTF 2020 - Quals:** 99th Place of 204 Teams.
 
 _____
 **Read books:**
