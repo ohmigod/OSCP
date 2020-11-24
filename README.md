@@ -8,8 +8,8 @@ _____
 |![htb-logo](http://www.hackthebox.eu/badge/image/86046.jpg)|![thm-logo](https://i.ibb.co/pJr2hXL/ohmigod-1.png)|
 _____
 **Certifications:**
-* 2019: Cybersecurity Technician _by UOC & Generalitat de Catalunya._
-* Currently: OSCP _by Offensive Security_
+* **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
+* **OSCP (Actually)** _by Offensive Security_
 
 _____
 
@@ -19,8 +19,8 @@ _____
 
 _____
 **Read books:**
-* Penetration Testing _by Georgia Weidman._
-* Pentesting con FOCA _by Chema Alonso._
-* Metasploit para Pentesters _by Pablo González Pérez._
+* **Penetration Testing** _by Georgia Weidman._
+* **Pentesting con FOCA** _by Chema Alonso._
+* **Metasploit para Pentesters** _by Pablo González Pérez._
 
 ______
