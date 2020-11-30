@@ -18,6 +18,12 @@ _____
 * **HTB x UNI CTF 2020 - Quals:** 99th Place of 204 Teams.
 
 _____
+
+**Courses:**
+
+**Windows Privilege Escalation for OSCP & Beyond! (Udemy)** _by Tib3rius._
+**Linux Privilege Escalation for OSCP & Beyond! (Udemy)** _by Tib3rius._
+_____
 **Read books:**
 * **Penetration Testing** _by Georgia Weidman._
 * **Pentesting con FOCA** _by Chema Alonso._
