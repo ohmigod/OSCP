@@ -21,8 +21,8 @@ _____
 
 **Courses:**
 
-* **Windows Privilege Escalation for OSCP & Beyond! (Udemy)** _by Tib3rius._
-* **Linux Privilege Escalation for OSCP & Beyond! (Udemy)** _by Tib3rius._
+* **Windows Privilege Escalation for OSCP & Beyond!** _by Tib3rius (Udemy)._
+* **Linux Privilege Escalation for OSCP & Beyond!** _by Tib3rius (Udemy)._
 _____
 **Read books:**
 * **Penetration Testing** _by Georgia Weidman._
