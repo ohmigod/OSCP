@@ -9,7 +9,7 @@ _____
 _____
 **Certifications:**
 * **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
-* **OSCP (2020)** _by Offensive Security_
+* **OSCP (2020)** _by Offensive Security._
 
 _____
 
