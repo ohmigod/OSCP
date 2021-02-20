@@ -9,7 +9,7 @@ _____
 _____
 **Certifications:**
 * **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
-* **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid_
+* **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
 * **OSCP (2020)** _by Offensive Security._
 
 _____
