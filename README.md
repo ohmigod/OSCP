@@ -36,4 +36,3 @@ _____
 * **Pentesting con FOCA** _by Chema Alonso._
 * **Metasploit para Pentesters** _by Pablo González Pérez._
 
-______
