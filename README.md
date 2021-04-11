@@ -27,6 +27,7 @@ _____
 * **Windows Privilege Escalation for OSCP & Beyond!** _by Tib3rius (Udemy)._
 * **Linux Privilege Escalation for OSCP & Beyond!** _by Tib3rius (Udemy)._
 * **Ethical Hacking: Wireless Networks** _by Malcom Shore (Linkedin Learning)._
+* **Network Forensics** _by Jungwoo Ryoo (Linkedin Learning)._
 
 _____
 
