@@ -10,9 +10,9 @@ _____
 _____
 
 **Certifications:**
-* **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
-* **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
 * **OSCP (2020)** _by Offensive Security._
+* **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
+* **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
 
 _____
 
@@ -36,4 +36,5 @@ _____
 * **Penetration Testing** _by Georgia Weidman._
 * **Pentesting con FOCA** _by Chema Alonso._
 * **Metasploit para Pentesters** _by Pablo González Pérez._
+* **Pentesting con Kali Linux ROlling Release 2017** _by 0xword._
 
