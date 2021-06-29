@@ -10,9 +10,10 @@ _____
 _____
 
 **Certifications:**
-* **OSCP (2020)** _by Offensive Security._
-* **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
+
 * **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
+* **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
+* **OSCP (2020)** _by Offensive Security._
 
 _____
 
@@ -29,7 +30,7 @@ _____
 * **Linux Privilege Escalation for OSCP & Beyond!** _by Tib3rius (Udemy)._
 * **Ethical Hacking: Wireless Networks** _by Malcom Shore (Linkedin Learning)._
 * **Network Forensics** _by Jungwoo Ryoo (Linkedin Learning)._
-* **Web Application Pentesting** _by Pentester Academy._
+* **Web Application Pentesting** _by Vivek Ramachandran (Pentester Academy)._
 
 _____
 
