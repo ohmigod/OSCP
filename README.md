@@ -14,6 +14,7 @@ _____
 * **Cybersecurity Technician (2019)** _by UOC & Generalitat de Catalunya._
 * **Cybersecurity Fundamentals: A Practical Approach (2020)** _by Universidad Carlos III de Madrid._
 * **OSCP (2020)** _by Offensive Security._
+* **CRTP (2021)** _by Pentester Academy.__
 
 _____
 
