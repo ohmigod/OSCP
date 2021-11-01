@@ -2,4 +2,4 @@
 
  - 👨‍💻 Make sure you have it ready for the exam!
  - 🍀 Good luck in your journey!
- - ⭐️ Like it? FAV! 
+ - ⭐️ Star it! 
