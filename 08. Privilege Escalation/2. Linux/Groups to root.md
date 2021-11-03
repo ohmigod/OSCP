@@ -14,6 +14,13 @@ tail passwd
 su user
 #type password and get root
 ```
+
+## adm
+
+```bash
+We can see all the logs on /var/log. Might contain passwords.
+```
+
 More info:
 
 * [Hackingarticles](https://www.hackingarticles.in/docker-privilege-escalation/)
